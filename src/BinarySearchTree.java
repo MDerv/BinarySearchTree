@@ -1,3 +1,9 @@
+/* Dhruv Sharma
+5/10/2021
+5/17/2021
+This file defines the BinarySearchTree class by making a BST.
+*/
+
 public class BinarySearchTree<Key extends Comparable<Key>, Value> {
 
     public Node<Key, Value> root;
