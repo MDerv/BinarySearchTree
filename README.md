@@ -1,2 +1,2 @@
 # BinarySearchTree
-This project creates a Binary Search Tree
+This project creates a Binary Search Tree.
